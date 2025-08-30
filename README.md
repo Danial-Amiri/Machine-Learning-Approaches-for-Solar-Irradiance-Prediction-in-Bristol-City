@@ -86,14 +86,18 @@ git clone https://github.com/Danial-Amiri/Machine-Learning-Approaches-for-Solar-
 # Install required packages
 pip install pandas numpy scikit-learn xgboost tensorflow matplotlib seaborn joblib
 
-Usage
+
+
+
+
+U###sage
 
 Data Preparation: Run data_preparation.ipynb to process raw data files
 Model Training: Execute forecasting notebooks for desired time horizon
 Feature Analysis: Run feature importance notebooks for model interpretability
 Evaluation: Results include performance metrics and visualizations
 
-Applications
+###Applications
 This forecasting system supports:
 
 Grid operators: Improved stability through irradiance variability anticipation
@@ -101,12 +105,12 @@ Renewable energy providers: Optimized solar farm operations and cost reduction
 Policy makers: Enhanced sustainable energy planning capabilities
 Research community: Reproducible methodology for solar forecasting studies
 
-Data Attribution
+###Data Attribution
 This research uses data from Renewables.ninja under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) licensing. Please cite:
 
 Pfenninger, S. and Staffell, I. (2016) 'Long-term patterns of European PV output using 30 years of validated hourly reanalysis and satellite data', Energy, 114, pp. 1251-1265.
 
-License
+###License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Citation
 If you use this work in your research, please cite:
@@ -118,14 +122,14 @@ If you use this work in your research, please cite:
   type={MSc Data Science Dissertation}
 }
 
-Contact
+###Contact
 
 Author: Danial Amiri
 Student ID: 24003829
 Institution: University of the West of England
 Supervisor: Dr. Neil Phillips
 
-Acknowledgments
+###Acknowledgments
 
 University of the West of England for academic support
 Renewables.ninja platform for providing high-quality meteorological data
