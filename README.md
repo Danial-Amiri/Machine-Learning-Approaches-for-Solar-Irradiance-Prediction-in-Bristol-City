@@ -90,7 +90,7 @@ pip install pandas numpy scikit-learn xgboost tensorflow matplotlib seaborn jobl
 
 
 
-U###sage
+###Usage
 
 Data Preparation: Run data_preparation.ipynb to process raw data files
 Model Training: Execute forecasting notebooks for desired time horizon
